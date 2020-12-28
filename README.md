@@ -75,4 +75,4 @@ $ npm start
 
 ## Contact
 
-- GitHub [@amytangcodes](https://{github.com/amytangcodes})
+- GitHub [@amytangcodes](https://github.com/amytangcodes)
